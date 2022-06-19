@@ -1,0 +1,1 @@
+console.log("Criado pelo Node")let name = "Jonas"
